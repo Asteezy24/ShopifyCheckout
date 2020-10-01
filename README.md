@@ -1,4 +1,4 @@
-# ShopifyCheckout
+# ShopifyCheckout This is an amazing project Check for it
 Bringing automated checkout to your favorite shopify websites
 
 Features:
