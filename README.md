@@ -1,5 +1,5 @@
 # ShopifyCheckout
-Bringing automated checkout to your favorite shopify websites
+Bringing automated fast checkout to your favorite shopify websites
 
 Features:
 - [ ] Queue Bypass.
