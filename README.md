@@ -1,3 +1,5 @@
+ShopifyCheckout - An Amazing Project
+
 # ShopifyCheckout
 Bringing automated checkout to your favorite shopify websites
 
