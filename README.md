@@ -1,4 +1,4 @@
-# ShopifyCheckout
+# The_best_ShopifyCheckout
 Bringing automated checkout to your favorite shopify websites
 
 Features:
