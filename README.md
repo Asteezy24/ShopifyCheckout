@@ -1,5 +1,6 @@
 # ShopifyCheckout
 Bringing automated checkout to your favorite shopify websites
+Shop like VIP members 
 
 Features:
 - [ ] Queue Bypass.
