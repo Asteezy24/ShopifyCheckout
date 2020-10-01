@@ -1,4 +1,4 @@
-# ShopifyCheckout
+# ShopifyCheckout - an awesome repository of python
 Bringing automated checkout to your favorite shopify websites
 
 Features:
