@@ -8,7 +8,7 @@ from config import *
 
 session = requests.session()
 
-chromedriver = "/Users/alexb_000/Documents/CODING/gui/bin/chromedriver"
+chromedriver = ""
 driver = webdriver.Chrome(chromedriver)
 #urlOfCrappyItem = raw_input("Enter Yeezy Link: ")
 #urlOfYeezy = raw_input("Enter Yeezy Link: ")
